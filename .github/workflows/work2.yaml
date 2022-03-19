@@ -12,7 +12,7 @@ on:
 
 env:
     TZ: Asia/Shanghai
-    DOMAIN: ${{secrets.DOMAIN}}
+    DOMAIN: ${{secrets.DOMAIN1}}
     USERNAME: ${{secrets.USERNAME1}}
     PASSWD: ${{secrets.PASSWD1}}
     PUSH_KEY: ${{secrets.PUSH_KEY}}
